@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [**YAS-Web App**](https://yas.education/)
 
-- 🌱 I’m currently learning **Laravel** + **Java**
+- 🌱 I’m currently learning **Laravel** + **Java** + **Docker** + **Javascript**
 
 - 💬 Ask me about **Laravel**
 
