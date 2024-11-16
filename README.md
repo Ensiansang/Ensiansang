@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dalepipi18@gmail.com**
 
-- ⚡ Fun fact **I played piano, violin, guitar.**
+- ⚡ Fun fact **I play piano, violin, guitar.**
 
 
 <h3 align="left">Languages and Tools:</h3>
