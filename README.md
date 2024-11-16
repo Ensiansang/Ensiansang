@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dalepipi18@gmail.com**
 
-- ⚡ Fun fact **I played piano, violin, guitar.**
+- ⚡ Fun fact **I played piano,violin,guitar.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
